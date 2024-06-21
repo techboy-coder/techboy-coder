@@ -10,11 +10,6 @@ I'm passionate about building high-quality products and services. I value good c
 
 You can also reach out to me on [LinkedIn](https://www.linkedin.com) , [Twitter](https://twitter.com) , or by email at [shivi@shivi.io](mailto:shivi@shivi.io).
 
-## Quick Links
-- [Resume](https://www.shivi.io/resume)
-- [Projects](https://www.shivi.io/projects)
-- [Blog](https://www.shivi.io/blog)
-
 ## 🛠 Tech Stack
 
 ### Programming Languages
@@ -64,6 +59,10 @@ You can also reach out to me on [LinkedIn](https://www.linkedin.com) , [Twitter]
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
+
+## Quick Links
+- [Resume](https://www.shivi.io/resume)
+- [Projects](https://www.shivi.io/projects)
+- [Blog](https://www.shivi.io/blog)
+
 ---
-
-
