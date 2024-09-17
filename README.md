@@ -4,7 +4,7 @@
 
 # Shivram Sambhus - Software Developer (⌐■_■)
 
-Hey, grüezi and namaste. I'm Shivram, a software developer and digital craftsman based in Basel, Switzerland. I'm a prospective computer science student at ETH Zurich.
+Hey, grüezi and namaste. I'm Shivram, a software developer and digital craftsman based in Zurich, Switzerland. Currently I'm studying computer science at ETH Zurich. 
 
 I'm passionate about building high-quality products and services. I value good craftsmanship, beautiful design, and growth fueled by product excellence.
 
