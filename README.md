@@ -1,16 +1,10 @@
-<p align="center">
-	<img src="https://www.shivi.io/banner.png" alt="Shivram Sambhus"/>
-</p>
+# Shivram Sambhus - Systems Engineer (⌐■_■)
 
-# Shivram Sambhus - Software Developer (⌐■_■)
+Studying CS at ETH Zurich. I work across the stack to solve hard problems, from full-stack and security to distributed systems, HPC and infrastructure. I'm stack-agnostic; the goal is always to find the right tool for the job. I like going wide to see how everything fits together and deep into the metal exactly when execution speed matters. 🇨🇭
 
-Hey, grüezi and namaste. I'm Shivram, a software developer and digital craftsman based in Zurich, Switzerland. Currently I'm studying computer science at ETH Zurich. 
+Always open to chatting about systems, exploring new ideas or discussing interesting opportunities. Site: [shivi.io](https://www.shivi.io/)
 
-I'm passionate about building high-quality products and services. I value good craftsmanship, beautiful design, and growth fueled by product excellence.
-
-You can also reach out to me on [LinkedIn](https://www.linkedin.com) , [Twitter](https://twitter.com) , or by email at [shivi@shivi.io](mailto:shivi@shivi.io).
-
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![Typescript](https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
@@ -59,10 +53,3 @@ You can also reach out to me on [LinkedIn](https://www.linkedin.com) , [Twitter]
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-
-## Quick Links
-- [Resume](https://www.shivi.io/resume)
-- [Projects](https://www.shivi.io/projects)
-- [Blog](https://www.shivi.io/blog)
-
----
