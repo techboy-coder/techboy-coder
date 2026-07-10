@@ -1,6 +1,6 @@
 # Shivram Sambhus - Systems Engineer (⌐■_■)
 
-Studying CS at ETH Zurich. I work across the stack to solve hard problems, from full-stack and security to distributed systems, HPC and infrastructure. I'm stack-agnostic; the goal is always to find the right tool for the job. I like going wide to see how everything fits together and deep into the metal exactly when execution speed matters. 🇨🇭
+CS at ETH Zurich. Currently going deep into distributed systems, HPC and infrastructure. Years of backend/fullstack and cyber security behind that. Homelabbing, hackathons and CTFs for fun. 🇨🇭
 
 Always open to chatting about systems, exploring new ideas or discussing interesting opportunities. Site: [shivi.io](https://www.shivi.io/)
 
